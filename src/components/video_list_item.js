@@ -1,7 +1,11 @@
 import React from "react"
 
-const VideoListItem = (props) => {
-  return <li>Video</li>
+const VideoListItem = ({video}) => {
+  return (
+      <li>
+
+      </li>
+  );
 };
 
 export default VideoListItem
